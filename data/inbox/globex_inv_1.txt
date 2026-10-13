@@ -1,0 +1,9 @@
+INVOICE
+Vendor: Globex Industries
+Bill To: NorthStar Pvt Ltd, Bengaluru
+Invoice No: GLX-2290
+Invoice Date: 03 October 2026
+Due Date: 02 November 2026
+Description: Office supplies
+Total Amount Due: INR 75,250.00
+Payment terms: Net 30

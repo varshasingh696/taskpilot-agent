@@ -1,0 +1,9 @@
+INVOICE
+Vendor: Acme Corp
+Bill To: NorthStar Pvt Ltd, Bengaluru
+Invoice No: ACME-1017
+Invoice Date: 14 August 2026
+Due Date: 13 September 2026
+Description: Cloud hosting - August 2026
+Total Amount Due: INR 31,200.00
+Payment terms: Net 30

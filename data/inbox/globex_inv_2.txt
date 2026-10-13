@@ -1,0 +1,9 @@
+INVOICE
+Vendor: Globex Industries
+Bill To: NorthStar Pvt Ltd, Bengaluru
+Invoice No: GLX-2301
+Invoice Date: 08 October 2026
+Due Date: 07 November 2026
+Description: Printer maintenance
+Total Amount Due: INR 12,000.00
+Payment terms: Net 30
