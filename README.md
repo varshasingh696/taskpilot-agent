@@ -6,8 +6,8 @@ action, **reads the result back to verify it**, and returns evidence.
 
 Everything runs locally. No cloud API keys and no real credentials are used.
 
-- GitHub: `<add your repo link>`
-- Demo video: `<add your video link>`
+- GitHub: `<https://github.com/varshasingh696/taskpilot-agentk>`
+- Demo video: `<https://drive.google.com/file/d/1hJvdJKfVTOtHSvzPCUhi_U0AvQfv1hJZ/view?usp=sharing>`
 
 ## Quick start
 
